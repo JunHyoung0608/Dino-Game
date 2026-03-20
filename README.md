@@ -11,9 +11,9 @@
 
 | 이름 | 역할 | GitHub |
 | :--- | :--- | :--- |
-| **김지홍** | Project Manager / Core Logic | [@KimJiHong](https://github.com/KimJiHong) |
-| **윤정원** | Lead Developer / VGA Display | [@YoonJungWon](https://github.com/YoonJungWon) |
-| **최은수** | System Architect / Physics | [@ChoiEunSu](https://github.com/ChoiEunSu) |
+| **김지홍** | Project Manager / Core Logic | [@KimJiHong]() |
+| **윤정원** | Lead Developer / VGA Display | [@YoonJungWon]() |
+| **최은수** | System Architect / Physics | [@ChoiEunSu]() |
 | **이준형** | QA Engineer / FSM Design | [@LeeJunHyung](https://github.com/JunHyoung0608) |
 
 ---
