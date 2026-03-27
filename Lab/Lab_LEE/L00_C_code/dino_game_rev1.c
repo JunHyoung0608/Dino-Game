@@ -47,7 +47,6 @@ void main(void){
     //inturrupt
     int btn_s = 1;    //start
     int btn_j = 1;    //jump
-    int filme_24 = 1;   //counter
     int send = 0;   //sender handler
     int obj_gen = 1;
 
@@ -70,6 +69,7 @@ void main(void){
             if (jump == 0){
                 if(btn_j){
                     jump = 1;
+                    btn_j = 0;
                 }
             } else if (jump == 1){
                 dion_high += 2;
